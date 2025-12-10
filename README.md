@@ -1,7 +1,7 @@
 # 𒅒 Efficient Drone Delivery Network Optimization
 
 
-## ⚪ Project Overview
+##  Project Overview
 
 This project focuses on optimizing drone delivery networks using advanced flow algorithms. The main goal is to efficiently maximize delivery capacity and prioritize high-weight packages while minimizing delivery costs.
 
@@ -12,7 +12,7 @@ We implement and analyze the following algorithms to solve the maximum flow and 
 - **Capacity Scaling Algorithm** to prioritize packages by weight  
 - **Successive Shortest Path Algorithm** for cost-based delivery optimization
 
-## ⚪ Topics Covered
+##  Topics Covered
 
 - Flow Networks and Maximum Flow Problems
 - Graph Representation and Edge Capacity Modeling
@@ -23,18 +23,18 @@ We implement and analyze the following algorithms to solve the maximum flow and 
 - Drone Delivery Network Simulation
 - Performance Analysis and Comparison
 
-## ⚪ Technologies and Tools
+##  Technologies and Tools
 
 - Python 3.x  
 - NetworkX (for graph representation)  
 - Matplotlib (for visualization)  
 
-## ⚪ How to Run
+##  How to Run
 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/shreya-13-04/Drone-Delivery-Network-Optimization.git
+git clone https://github.com/Uhashini/Drone-Delivery-Network-Optimization.git
 cd Drone-Delivery-Network-Optimization
 ```
 
@@ -57,17 +57,16 @@ python algorithms/ford_fulkerson.py
 python algorithms/edmonds_karp.py
 ```
 
-## ⚪ Contributions
+##  Contributions
 
 This project was developed as a team effort for the **Data Structures and Algorithms** course.  
-Contributions include algorithm implementation, analysis, and report writing.
+Contributions include algorithm implementation, analysis and report writing.
 
-## ⚪ License
+##  License
 
 This project is open-source and available under the **MIT License**.
 
-## ⚪ Contact
+##  Contact
 
-For queries or contributions, feel free to reach out or open an issue on the [GitHub repository](https://github.com/shreya-13-04/Drone-Delivery-Network-Optimization).
+For queries or contributions, feel free to reach out or open an issue on the [GitHub repository](https://github.com/Uhashini/Drone-Delivery-Network-Optimization.git).
 
-© 2025 Shreya and Team
